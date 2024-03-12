@@ -1,0 +1,5 @@
+.venv
+__pycashe__
+dbstorage
+local version 12.03.24 12.00
+.dockerignore
